@@ -2,6 +2,8 @@
 *.ogg
 *.au
 *.mp4
+*.mp3
+*.part
 *.aup
 *.jpg
 *.mscz,
