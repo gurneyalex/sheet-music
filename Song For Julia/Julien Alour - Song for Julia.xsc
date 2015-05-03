@@ -15,7 +15,7 @@ SectionStart,View0
 FX_Mix,0,0,100,0
 FX_Tuning,1,1,0,0,0,0,60,50,0
 FX_Transposition,1,1,0,0,0
-FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
+FX_EQ,0,0,0,0:0:0:0:0:0:0:0:0:0:0:0:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80
 FX_Speed,1,0,100000,0
 FX_Misc,1,0,50
 ShowTextZone,0
@@ -47,12 +47,12 @@ PianoRollBtmNote,24
 PianoRollTopNote,96
 TextZoneSplitterPos,0.250000
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.699451
+ViewSplitterPos,0.698903
 VertProfileZoom,1.000000
 HorizProfileZoom,1.000000
-HorizProfilePos,9227
-SelectionLeft,3729144
-SelectionRight,3729144
+HorizProfilePos,2633
+SelectionLeft,1467900
+SelectionRight,1467900
 SectionEnd,View0
 
 SectionStart,Markers
@@ -90,7 +90,7 @@ B,917670,1,,0,0:00:20.809
 B,946744,1,,0,0:00:21.468
 B,978309,1,,0,0:00:22.184
 S,1009417,1,A,0,0:00:22.889
-B,1042382,1,,0,0:00:23.637
+B,1020600,1,,0,0:00:23.143
 B,1072623,1,,0,0:00:24.323
 B,1106614,1,,0,0:00:25.093
 M,1132570,1,A2,0,0:00:25.682
