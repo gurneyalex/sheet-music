@@ -41,18 +41,18 @@ FitWholeFileStartwavpix,-1
 LoopMode,1
 ScrollMode,1
 PlayZone,4
-PianoBtmNote,22
-PianoTopNote,97
+PianoBtmNote,19
+PianoTopNote,93
 PianoRollBtmNote,24
 PianoRollTopNote,96
 TextZoneSplitterPos,0.250000
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.700000
+ViewSplitterPos,0.699451
 VertProfileZoom,1.000000
 HorizProfileZoom,1.000000
-HorizProfilePos,25561
-SelectionLeft,10733102
-SelectionRight,10733102
+HorizProfilePos,33859
+SelectionLeft,13066385
+SelectionRight,13066385
 SectionEnd,View0
 
 SectionStart,Markers
